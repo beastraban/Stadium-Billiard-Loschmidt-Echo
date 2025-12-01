@@ -2,8 +2,9 @@
 Stadium Billiard - Collision Table Method
 ==========================================
 
-Direct translation of MATLAB 2D gas approach.
+Direct translation of MATLAB 2D gas approach as written by Ira Wolfson (2025)
 One big collision table. That's it.
+Written with AI Claude assistance
 """
 
 import numpy as np
